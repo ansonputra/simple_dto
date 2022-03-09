@@ -1,1 +1,1 @@
-# simple_dto
+# this is simple implementation of DTO pattern
